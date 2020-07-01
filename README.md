@@ -4,7 +4,7 @@
 3) Node
 4) Создание локального сервера на Node  с использованием библиотеки Express
 5) Понятие RESTfull сервисов
-6) Более подробное изучение браузера Chrome(cookies, cash, local storage)
+6) Более подробное изучение браузера Chrome(cookies, cash, local storage, плагины)
 7) библиотека React (javascript)
 8) библиотека Bootstrap (HTML, CSS, Javascript)
 9) Препроцессоры(SCSS, SASS)
