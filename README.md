@@ -30,3 +30,6 @@
 29) Создание игры Тетрис с нуля на частом Javascript в реальном времени
 30) Регулярные выражения
 31) Знакомство с Pug(Jade)
+32) Canvas (javascript)
+33) Slick Slider (javascript)
+34) DOM, BOM
