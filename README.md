@@ -35,3 +35,5 @@
 34) DOM, BOM
 35) язык пограммирования PHP
 36) Wordpress
+37) API
+38) URL
