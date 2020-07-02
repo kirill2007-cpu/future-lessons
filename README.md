@@ -33,3 +33,5 @@
 32) Canvas (javascript)
 33) Slick Slider (javascript)
 34) DOM, BOM
+35) язык пограммирования PHP
+36) Wordpress
