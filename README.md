@@ -46,3 +46,4 @@
 45) BEM (Block-Element-Modificator)
 46) Jira
 47) Git Pages
+48) Проектирование и создание программ
