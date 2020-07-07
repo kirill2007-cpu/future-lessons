@@ -44,3 +44,5 @@
 43) Как писать чистый код (на примере javascript)
 44) OOP и функциональное программирование
 45) BEM (Block-Element-Modificator)
+46) Jira
+47) Git Pages
